@@ -1,1 +1,1 @@
-SELECT 4
+SELECT develop_squad_b

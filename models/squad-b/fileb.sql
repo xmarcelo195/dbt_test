@@ -1,1 +1,1 @@
-SELECT 'teste_cherrypick'
+SELECT 'teste_cherrypick' FROM novo

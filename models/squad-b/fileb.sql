@@ -1,1 +1,1 @@
-SELECT 'arquivo_teste_c'
+SELECT 'teste_cherrypick'
